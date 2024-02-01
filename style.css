@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  background-color: lightgray;
+  padding: 20px;
+}
+
+h2 {
+  display: inline-block;
+  margin: 7px;
+}
+
+.float {
+  float: right;
+  margin: 7px;
+}
