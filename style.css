@@ -1,18 +1,35 @@
 body {
   margin: 0;
-}
-
-.navbar {
   background-color: lightgray;
-  padding: 20px;
 }
 
-h2 {
-  display: inline-block;
-  margin: 7px;
+#navbar {
+  background-color: lightgreen;
+}
+
+a {
+  color: black;
+}
+
+.sticky {
+  position: fixed;
 }
 
 .float {
   float: right;
-  margin: 7px;
+  padding: 10px;
+}
+
+h3 {
+  display: inline-block;
+  padding: 10px;
+}
+
+img {
+  width: 200px;
+  float: right;
+}
+
+.quote {
+  margin-top: 300px;
 }
