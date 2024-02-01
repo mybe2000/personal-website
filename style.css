@@ -30,6 +30,12 @@ img {
   float: right;
 }
 
+.about {
+  width: 300px;
+  margin-bottom: 20px;
+  margin-right: 100px;
+}
+
 .quote {
   margin-top: 300px;
 }
