@@ -39,3 +39,20 @@ img {
 .quote {
   margin-top: 300px;
 }
+
+.image1 {
+  background-image: url("images/landscape.jpg");
+  height: 50vh;
+  font-size: 25px;
+  color: azure;
+  padding: 20px;
+}
+
+.image2 {
+  background-image: url("images/tulips.jpeg");
+  height: 50vh;
+  font-size: 25px;
+  font-weight: 600;
+  color: black;
+  padding: 20px;
+}
