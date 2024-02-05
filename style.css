@@ -30,19 +30,48 @@ img {
   float: right;
 }
 
-.about {
-  width: 300px;
+.aboutImg {
+  height: 300px;
+  width: 400px;
   margin-bottom: 20px;
-  margin-right: 100px;
+}
+
+.indexImg {
+  height: 300px;
+  width: 400px;
+}
+
+.zone {
+  display: flex;
+  padding: 20px;
+  background-color: beige;
+}
+
+.text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.indexZone {
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.indexQuote {
+  background-color: lightgoldenrodyellow;
+  padding: 20px;
 }
 
 .quote {
-  margin-top: 300px;
+  text-align: center;
+  font-size: 50px;
+  /* background-color: aquamarine; */
 }
 
 .image1 {
   background-image: url("images/landscape.jpg");
-  height: 50vh;
+  height: 40vh;
   font-size: 25px;
   color: azure;
   padding: 20px;
@@ -50,9 +79,16 @@ img {
 
 .image2 {
   background-image: url("images/tulips.jpeg");
-  height: 50vh;
+  height: 40vh;
   font-size: 25px;
   font-weight: 600;
   color: black;
+  padding: 20px;
+}
+
+.image3 {
+  background-image: url("images/positive-image.jpeg");
+  height: 40vh;
+  font-size: 25px;
   padding: 20px;
 }
